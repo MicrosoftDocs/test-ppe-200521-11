@@ -1,6 +1,21 @@
 {
   "package_version": "",
-  "docsets_to_publish": [],
+  "docsets_to_publish": [
+    {
+      "docset_name": "test-ppe-200521-11",
+      "build_source_folder": "test-ppe-200521-11",
+      "build_output_subfolder": "test-ppe-200521-11",
+      "locale": "en-us",
+      "monikers": [],
+      "moniker_ranges": [],
+      "open_to_public_contributors": true,
+      "type_mapping": {
+        "Conceptual": "Content"
+      },
+      "build_entry_point": "docs",
+      "template_folder": "_themes"
+    }
+  ],
   "notification_subscribers": [
     ""
   ],
